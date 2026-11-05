@@ -13,4 +13,4 @@ Pour afficher un bouton d'envoi vers un Google Form sur la page de fin, renseign
 ## Crédits
 
 - Documents d'activité SNT reformulés (Docs 1 à 4 et 3 bis).
-- Voix de synthèse : ElevenLabs (elevenlabs.io), voix Alice pour Vega-7 ; Gemini pour NOÉ.
+- Voix de synthèse : ElevenLabs (elevenlabs.io), voix Alice.
